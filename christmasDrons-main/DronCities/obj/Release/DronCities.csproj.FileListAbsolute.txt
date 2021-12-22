@@ -1,0 +1,10 @@
+D:\SomeShitFromUniversity\DronCities\bin\Release\DronCities.exe.config
+D:\SomeShitFromUniversity\DronCities\bin\Release\DronCities.exe
+D:\SomeShitFromUniversity\DronCities\bin\Release\DronCities.pdb
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.csprojAssemblyReference.cache
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.Form1.resources
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.Properties.Resources.resources
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.csproj.GenerateResource.cache
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.csproj.CoreCompileInputs.cache
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.exe
+D:\SomeShitFromUniversity\DronCities\obj\Release\DronCities.pdb
